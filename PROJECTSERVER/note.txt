@@ -1,0 +1,23 @@
+Server Creation
+...............
+
+install express
+
+       -npm i express
+
+1.import express
+
+2.create app using express
+
+3.create port number  (3000)
+
+4.create requests according to our project 
+
+
+
+
+
+nodemon Server
+..............
+
+.  npm i -g nodemon
